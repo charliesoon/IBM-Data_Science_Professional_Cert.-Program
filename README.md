@@ -2,7 +2,8 @@
 Professional Certificate Program from edX.
 It consists of a total of 9 courses to be completed to earn this certification. 
 Each course has video lectures, hands on labs and quiz to keep myself in check.
-_Notes: Information obtained from https://www.edx.org/professional-certificate/ibm-data-science?index=product&queryID=d5dd5055bdcddaeefc0d08f0c7b80430&position=1. When I registered for the course in 2020, it requires 9 modules to complete. In the current program, 10 modules has to be completed to finish the program.
+
+###_Notes: Information obtained from [edX course page.](https://www.edx.org/professional-certificate/ibm-data-science?index=product&queryID=d5dd5055bdcddaeefc0d08f0c7b80430&position=1)When I registered for the course in 2020, it requires 9 modules to complete. In the current program, 10 modules has to be completed to finish the program._
 
 
 ## What you will learn
