@@ -8,6 +8,7 @@ Each course has video lectures, hands on labs and quiz to keep myself in check.
 * When I registered for the course in 2020, it requires 9 modules to complete the program. In the current program, 10 modules has to be completed.
 * I hope that like myself you have takeaways from the program after completing it!
 * Remember it's not how well you score, it's the learning that COUNT!
+* It took me 11 months and 2 days to finish the course. Half an hour a day makes a big different after one year - the power of compounding effect!
 
 
 ## What you will learn
