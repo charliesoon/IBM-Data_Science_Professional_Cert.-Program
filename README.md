@@ -7,6 +7,7 @@ Each course has video lectures, hands on labs and quiz to keep myself in check.
 * Information obtained from [edX course page](https://www.edx.org/professional-certificate/ibm-data-science?index=product&queryID=d5dd5055bdcddaeefc0d08f0c7b80430&position=1).
 * When I registered for the course in 2020, it requires 9 modules to complete the program. In the current program, 10 modules has to be completed.
 * I hope that like myself you have takeaways from the program after completing it!
+* Remember it's not how well you score, it's the learning that COUNT!
 
 
 ## What you will learn
